@@ -1,0 +1,20 @@
+* {
+    background-color: whitesmoke;
+    margin: 0%;
+    padding: 0%;
+}
+
+.butt{
+    height: 50px;
+    width: 50px;
+    margin: 3px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.screen{
+    height: 35px;
+    margin: 5px;
+    padding: 5px;
+    width: 217px;
+    font-size: 25px;
+}
